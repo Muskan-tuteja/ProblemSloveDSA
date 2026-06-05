@@ -10,7 +10,7 @@ public class palindrome3 {
 			
 		}
 		if(str.equals(rev)) {
-			System.out.println("palinfrome");
+			System.out.println("palindrome");
 		}else {
 			System.out.println("Not palinfrome");
 		}
